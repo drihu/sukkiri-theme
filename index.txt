@@ -1,0 +1,56 @@
+----------------------------------------------------------------------
+# INDICE
+----------------------------------------------------------------------
+# Configuraciones
+# Comentarios
+# Strings
+# Constantes de lenguaje (true, false, etc.)
+# Entidades
+# Constantes de usuario, CSS (px, #FFF) y Regex
+#
+# Constantes
+# Constructores de namespace (namespace, use) y @ en comentarios
+# Operadores basicos (+, -, =)
+# Sentencias de control, Selectores SASS y Regex (^, $)
+# Constantes de numeros
+# Constructores modificadores
+# Constructores
+# Namespaces de mayor ambito
+# Parametros JS
+#
+#
+# Etiquetas HTML - Nombres y Selectores CSS
+# Etiquetas HTML - <, =, >
+# Atributos HTML y Selectores CSS - Clase/Id
+#
+# Clase JS Error
+#
+#
+#
+#
+#
+#
+# Metodos JS y Funciones PY Conocidos
+# Funciones JS - Definicion de metodos
+# Funciones JS - Definicion de clases
+#
+#
+#
+# Objetos conocidos CSS (Arial, solid)
+# Objetos conocidos JS + Propiedades CSS
+# Parametros PHP y Namespaces usados
+# Variables
+# Variables de lenguaje (this, self)
+# Metodos Usados
+#
+# Constante JS false
+# Constante JS true
+# Constante JS null
+# Clase extendida
+# Nampespaces - Definicion
+#
+#
+#
+#
+#
+# JSON

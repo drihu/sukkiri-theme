@@ -1,0 +1,24 @@
+----------------------------------------------------------------------
+# COLORES
+----------------------------------------------------------------------
+# Negro Suave: #272822
+# Amarillo Suave: #E6DB74
+# Rojo Suave: #FF8080
+# Verde Suave: #A6E22E
+# Gris Suave 1: #75715E
+# Gris Suave 2: #646464
+# Violeta Suave: #C68EC6
+# Naranja Suave: #FBA96C
+# Purpura Suave: #FF60A0
+# Blanco: #CCC
+# Rojo: #FF6464
+# Celeste: #66D9EF
+# Azul: #64C0F0
+# Amarillo: #FFFF64
+# Morado: #AE81FF
+# Purpura: #F92672
+# Violeta: #FF8EFF
+# Amarillo Nar: #FFDC70
+# Gris Azulado: #88B0B0
+# Verde Super Suave: #99DD99
+# Verde Fosforecente: #00FFA0
